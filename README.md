@@ -1,2 +1,1 @@
-# stock-data-analysis-and-forecast
-maotai stock data analysis and forecast
+# 基于茅台股票数据进行分析并用深度学习模型进行股票预测
